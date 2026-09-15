@@ -1,225 +1,208 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ffaa,100:0077b6&height=220&section=header&text=Md.%20Sakib%20Hasan&fontSize=52&fontColor=ffffff&animation=fadeIn" width="100%"/>
-</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=600&color=00FFAA&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+Full+Stack+Developer" alt="Typing SVG"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:0077B6,100:00D8A7&height=180&section=header&text=Md.%20Sakib%20Hasan&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Full%20Stack%20Developer&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=800&color=00D8A7&center=true&vCenter=true&width=560&lines=Computer+Vision+%26+Self-Supervised+Learning;Production-grade+ML+systems%2C+end+to+end;Research+rigor+meets+software+engineering" alt="Focus areas"/>
 </p>
 
-<p align="center">
-  <a href="mailto:sakibmunshi013@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sakibmunshi013-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/md-sakib-hasan-356304272/">
-    <img src="https://img.shields.io/badge/LinkedIn-md--sakib--hasan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/hasan-sakib">
-    <img src="https://img.shields.io/badge/GitHub-hasan--sakib-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://raw.githubusercontent.com/hasan-sakib/hasan-sakib/main/Md.%20Sakib%20Hasan.pdf">
-    <img src="https://img.shields.io/badge/Resume-Download%20CV-FF6B35?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
-  </a>
+<p>
+  <a href="https://www.linkedin.com/in/md-sakib-hasan-356304272/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a>
+  <a href="mailto:sakibmunshi013@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/></a>
+  <a href="https://github.com/hasan-sakib"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/></a>
+  <a href="https://raw.githubusercontent.com/hasan-sakib/hasan-sakib/main/Md.%20Sakib%20Hasan.pdf"><img src="https://img.shields.io/badge/Résumé-FF6B35?style=flat-square&logo=readthedocs&logoColor=white&labelColor=0D1117" alt="Résumé"/></a>
+  <img src="https://img.shields.io/badge/Dhaka,%20Bangladesh-26A69A?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0D1117" alt="Location"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-26A69A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
-  <img src="https://komarev.com/ghpvc/?username=hasan-sakib&style=for-the-badge&color=00ffaa" alt="Profile Views"/>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-I'm a passionate **AI/ML Engineer** and **Full Stack Developer** dedicated to transforming complex problems into elegant, intelligent solutions. My expertise spans the full technology stack—from cutting-edge machine learning models to production-ready web applications.
-
-**Key Focus Areas:**
-- **Computer Vision & Image Processing** – Object detection, semantic segmentation, image classification
-- **Self-Supervised Learning** – Training models with minimal labeled data
-- **Neural Network Architecture** – Deep learning, transfer learning, optimization techniques
-- **Full Stack Development** – Building end-to-end systems that leverage ML capabilities
-
-I thrive on challenges where innovation meets practicality, combining rigorous machine learning research with production-grade software engineering.
-
----
-
-## 🛠️ Technical Expertise
-
-### 🤖 AI / ML / Deep Learning
-
-<p align="center">
-  <a href="#" title="PyTorch">
-    <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50"/>
-  </a>
-  <a href="#" title="TensorFlow">
-    <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" height="50"/>
-  </a>
-  <a href="#" title="Scikit-Learn">
-    <img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-Learn" width="50" height="50"/>
-  </a>
-  <a href="#" title="OpenCV">
-    <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="50" height="50"/>
-  </a>
-  <a href="#" title="Keras">
-    <img src="https://skillicons.dev/icons?i=keras" alt="Keras" width="50" height="50"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HuggingFace%20Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="Computer Vision"/>
-  <img src="https://img.shields.io/badge/Self--Supervised%20Learning-00B4AB?style=flat-square&logo=keras&logoColor=white" alt="Self-Supervised Learning"/>
-  <img src="https://img.shields.io/badge/LLMs-FF6F00?style=flat-square&logo=openai&logoColor=white" alt="LLMs"/>
-  <img src="https://img.shields.io/badge/YOLO-0066FF?style=flat-square&logo=yolo&logoColor=white" alt="YOLO"/>
-</p>
-
-### 📊 Data Science & Analysis
-
-<p align="center">
-  <a href="#" title="Python">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/>
-  </a>
-  <a href="#" title="Jupyter">
-    <img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" width="50" height="50"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab"/>
-  <img src="https://img.shields.io/badge/Seaborn-0C55AA?style=flat-square&logo=python&logoColor=white" alt="Seaborn"/>
-</p>
-
-### 🌐 Full Stack Development
-
-<p align="center">
-  <a href="#" title="React">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/>
-  </a>
-  <a href="#" title="Node.js">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/>
-  </a>
-  <a href="#" title="Flask">
-    <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="50" height="50"/>
-  </a>
-  <a href="#" title="FastAPI">
-    <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="50" height="50"/>
-  </a>
-  <a href="#" title="Express">
-    <img src="https://skillicons.dev/icons?i=express" alt="Express" width="50" height="50"/>
-  </a>
-  <a href="#" title="Django">
-    <img src="https://skillicons.dev/icons?i=django" alt="Django" width="50" height="50"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="#" title="HTML5">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50"/>
-  </a>
-  <a href="#" title="CSS3">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50"/>
-  </a>
-  <a href="#" title="JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50"/>
-  </a>
-  <a href="#" title="TailwindCSS">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="50" height="50"/>
-  </a>
-  <a href="#" title="Bootstrap">
-    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="50" height="50"/>
-  </a>
-</p>
-
-### 🗄️ Databases & DevOps
-
-<p align="center">
-  <a href="#" title="MySQL">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"/>
-  </a>
-  <a href="#" title="MongoDB">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/>
-  </a>
-  <a href="#" title="PostgreSQL">
-    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50" height="50"/>
-  </a>
-  <a href="#" title="Docker">
-    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50"/>
-  </a>
-  <a href="#" title="Git">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
-  </a>
-  <a href="#" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/REST%20API-FF6B6B?style=flat-square&logo=api&logoColor=white" alt="REST API"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-2496ED?style=flat-square&logo=github&logoColor=white" alt="CI/CD"/>
-</p>
-
-### 💻 Programming Languages
-
-<p align="center">
-  <a href="#" title="Python">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/>
-  </a>
-  <a href="#" title="JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50"/>
-  </a>
-  <a href="#" title="Java">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50"/>
-  </a>
-  <a href="#" title="C">
-    <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50"/>
-  </a>
-  <a href="#" title="TypeScript">
-    <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="50" height="50"/>
-  </a>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasan-sakib&theme=tokyonight&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=hasan-sakib&theme=tokyonight&hide_border=true&show_icons=true&background=0D1117" width="48%" alt="GitHub Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasan-sakib&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" alt="Contribution Graph"/>
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## About
 
-I'm always interested in discussing AI/ML projects, full-stack development opportunities, and collaborative innovations. Feel free to reach out!
+AI/ML Engineer and Full Stack Developer building systems where research-grade models actually ship. My work sits at the seam between the two: training vision models that hold up outside a notebook, then wrapping them in APIs and interfaces people can use.
 
-<p align="center">
-  <a href="https://linkedin.com/in/md-sakib-hasan-356304272/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:sakibmunshi013@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/hasan-sakib">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://raw.githubusercontent.com/hasan-sakib/hasan-sakib/main/Md.%20Sakib%20Hasan.pdf">
-    <img src="https://img.shields.io/badge/Download%20CV-FF6B35?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
-  </a>
-</p>
+**Where I go deep**
 
-<p align="center">
-  <i>"Building intelligent systems, one model at a time."</i>
-</p>
+| | |
+|:--|:--|
+| **Computer Vision** | Object detection, semantic segmentation, image classification |
+| **Self-Supervised Learning** | Representation learning with minimal labeled data |
+| **Model Engineering** | Deep learning architectures, transfer learning, training optimization |
+| **Full Stack** | End-to-end products that serve ML in production |
+
+---
+
+## Experience & Education
+
+| | |
+|:--|:--|
+| **Full-Stack Developer & AI Engineer** — Acciptra *(Remote)* | Feb 2026 – Present |
+| **M.Sc., Artificial Intelligence & Machine Learning** — East West University, Dhaka | May 2026 – Present |
+
+<!-- Add a line or two per role describing impact — "cut inference latency 40%", "shipped X to N users". Recruiters read this section first. -->
+
+---
+
+## Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="180"><strong>AI / ML</strong></td>
+<td>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square&logo=yolo&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white&labelColor=0D1117"/>
+</td>
+</tr>
+<tr>
+<td valign="top"><strong>Data</strong></td>
+<td>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Seaborn-0C55AA?style=flat-square&logo=python&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white&labelColor=0D1117"/>
+</td>
+</tr>
+<tr>
+<td valign="top"><strong>Languages</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=0D1117"/>
+</td>
+</tr>
+<tr>
+<td valign="top"><strong>Backend</strong></td>
+<td>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/REST-FF6B6B?style=flat-square&logo=fastapi&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white&labelColor=0D1117"/>
+</td>
+</tr>
+<tr>
+<td valign="top"><strong>Frontend</strong></td>
+<td>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=0D1117"/>
+</td>
+</tr>
+<tr>
+<td valign="top"><strong>Data Stores</strong></td>
+<td>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=0D1117"/>
+</td>
+</tr>
+<tr>
+<td valign="top"><strong>Infra & Tooling</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=0D1117"/>
+</td>
+</tr>
+</table>
+
+---
+
+## Featured Work
+
+<!-- Replace these four with real repos. Keep the format: what it does, what you built, what it proves. -->
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Project Name](https://github.com/hasan-sakib)
+One line on the problem it solves and the result — a metric if you have one.
+
+`PyTorch` · `OpenCV` · `FastAPI`
+
+</td>
+<td width="50%" valign="top">
+
+### [Project Name](https://github.com/hasan-sakib)
+One line on the problem it solves and the result — a metric if you have one.
+
+`Transformers` · `React` · `Docker`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Project Name](https://github.com/hasan-sakib)
+One line on the problem it solves and the result — a metric if you have one.
+
+`Self-Supervised` · `PyTorch` · `W&B`
+
+</td>
+<td width="50%" valign="top">
+
+### [Project Name](https://github.com/hasan-sakib)
+One line on the problem it solves and the result — a metric if you have one.
+
+`Django` · `PostgreSQL` · `Kubernetes`
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Activity
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,50:00ffaa,100:0d1117&height=120&section=footer" width="100%"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=hasan-sakib&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D8A7&icon_color=0077B6&text_color=C9D1D9&ring_color=00D8A7" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-sakib&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D8A7&text_color=C9D1D9" height="165" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=hasan-sakib&hide_border=true&background=0D1117&stroke=0D1117&ring=00D8A7&fire=FF6B35&currStreakLabel=00D8A7&sideLabels=C9D1D9&dates=8B949E" height="165" alt="Contribution streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hasan-sakib&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D8A7&line=0077B6&point=FFFFFF&area=true&area_color=00D8A7" width="98%" alt="Contribution graph"/>
+
+</div>
+
+---
+
+## Currently
+
+- Building full-stack AI features at **Acciptra**
+- Researching **self-supervised representation learning** for my M.Sc.
+- Open to collaboration on computer vision and applied ML work
+
+---
+
+<div align="center">
+
+**Let's talk** — AI/ML projects, full-stack builds, or research collaborations.
+
+<a href="mailto:sakibmunshi013@gmail.com"><img src="https://img.shields.io/badge/sakibmunshi013@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/md-sakib-hasan-356304272/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a>
+
+<sub><i>Building intelligent systems, one model at a time.</i></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D8A7,55:0077B6,100:0D1117&height=110&section=footer" width="100%"/>
+
 </div>
