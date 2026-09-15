@@ -126,51 +126,6 @@ AI/ML Engineer and Full Stack Developer building systems where research-grade mo
 
 ---
 
-## Featured Work
-
-<!-- Replace these four with real repos. Keep the format: what it does, what you built, what it proves. -->
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [Project Name](https://github.com/hasan-sakib)
-One line on the problem it solves and the result — a metric if you have one.
-
-`PyTorch` · `OpenCV` · `FastAPI`
-
-</td>
-<td width="50%" valign="top">
-
-### [Project Name](https://github.com/hasan-sakib)
-One line on the problem it solves and the result — a metric if you have one.
-
-`Transformers` · `React` · `Docker`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Project Name](https://github.com/hasan-sakib)
-One line on the problem it solves and the result — a metric if you have one.
-
-`Self-Supervised` · `PyTorch` · `W&B`
-
-</td>
-<td width="50%" valign="top">
-
-### [Project Name](https://github.com/hasan-sakib)
-One line on the problem it solves and the result — a metric if you have one.
-
-`Django` · `PostgreSQL` · `Kubernetes`
-
-</td>
-</tr>
-</table>
-
----
-
 ## GitHub Activity
 
 <div align="center">
@@ -180,7 +135,13 @@ One line on the problem it solves and the result — a metric if you have one.
 
 <img src="https://streak-stats.demolab.com?user=hasan-sakib&hide_border=true&background=0D1117&stroke=0D1117&ring=00D8A7&fire=FF6B35&currStreakLabel=00D8A7&sideLabels=C9D1D9&dates=8B949E" height="165" alt="Contribution streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hasan-sakib&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D8A7&line=0077B6&point=FFFFFF&area=true&area_color=00D8A7" width="98%" alt="Contribution graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hasan-sakib&bg_color=0D1117&color=C9D1D9&title_color=00D8A7&line=00D8A7&point=FFFFFF&area=true&area_color=0077B6&hide_border=true&custom_title=Contribution%20Activity" width="98%" alt="Contribution graph"/>
+
+<!-- If the activity graph above ever fails to load, swap in this one — different host, same data:
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hasan-sakib&theme=github_dark" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hasan-sakib&theme=github_dark" height="180"/>
+-->
+
 
 </div>
 
