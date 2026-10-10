@@ -117,10 +117,10 @@ class SakibHasan:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hasan-sakib&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D8A7&icon_color=0077B6&text_color=C9D1D9&ring_color=00D8A7&include_all_commits=true" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hasan-sakib&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D8A7&icon_color=0077B6&text_color=C9D1D9&ring_color=00D8A7" height="165" alt="GitHub stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-sakib&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D8A7&text_color=C9D1D9" height="165" alt="Top languages"/>
 
-<img src="https://streak-stats.demolab.com?user=hasan-sakib&hide_border=true&background=0D1117&stroke=0D1117&ring=00D8A7&fire=FF6B35&currStreakLabel=00D8A7&sideLabels=C9D1D9&dates=8B949E" height="165" alt="Contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=hasan-sakib&hide_border=true&background=0D1117&stroke=0D1117&ring=00D8A7&fire=FF6B35&currStreakLabel=00D8A7&sideLabels=C9D1D9&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8B949E" height="165" alt="Contribution streak"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasan-sakib&theme=github_dark" height="150" alt="Profile details and contribution history"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hasan-sakib&theme=github_dark&utcOffset=6" height="150" alt="Commits by hour of day"/>
