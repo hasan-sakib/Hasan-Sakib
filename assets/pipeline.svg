@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="214" viewBox="0 0 960 214" fill="none" role="img">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00D8A7"/><stop offset="1" stop-color="#38BDF8"/></linearGradient>
+<linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00D8A7" stop-opacity="0"/><stop offset=".5" stop-color="#00D8A7"/><stop offset="1" stop-color="#00D8A7" stop-opacity="0"/></linearGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00D8A7" stop-opacity=".7"/><stop offset="1" stop-color="#30363D" stop-opacity="0"/></linearGradient>
+</defs>
+<rect x="0.5" y="30.5" width="189" height="95" rx="14" fill="#161B22" stroke="#30363D"/>
+<rect x="20" y="30" width="46" height="2.5" rx="1.25" fill="url(#g)"/>
+<text x="20" y="58" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="700" fill="#00D8A7" text-anchor="start" >01</text>
+<text x="20" y="88" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#E6EDF3" text-anchor="start" >Research</text>
+<text x="20" y="110" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="400" fill="#8B949E" text-anchor="start" >frame the problem</text>
+<line x1="198" y1="78" x2="240" y2="78" stroke="#00D8A7" stroke-width="2" stroke-dasharray="4 5"><animate attributeName="stroke-dashoffset" values="0;-18" dur="1s" repeatCount="indefinite"/></line>
+<polygon points="238,71 248,78 238,85" fill="#00D8A7"/>
+<circle r="3.5" fill="#7CFFE0"><animateMotion path="M198,78 L240,78" dur="1.8s" begin="0.0s" repeatCount="indefinite"/></circle>
+<rect x="256.5" y="30.5" width="189" height="95" rx="14" fill="#161B22" stroke="#30363D"/>
+<rect x="276" y="30" width="46" height="2.5" rx="1.25" fill="url(#g)"/>
+<text x="276" y="58" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="700" fill="#00D8A7" text-anchor="start" >02</text>
+<text x="276" y="88" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#E6EDF3" text-anchor="start" >Model</text>
+<text x="276" y="110" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="400" fill="#8B949E" text-anchor="start" >train · evaluate</text>
+<line x1="454" y1="78" x2="496" y2="78" stroke="#00D8A7" stroke-width="2" stroke-dasharray="4 5"><animate attributeName="stroke-dashoffset" values="0;-18" dur="1s" repeatCount="indefinite"/></line>
+<polygon points="494,71 504,78 494,85" fill="#00D8A7"/>
+<circle r="3.5" fill="#7CFFE0"><animateMotion path="M454,78 L496,78" dur="1.8s" begin="0.6s" repeatCount="indefinite"/></circle>
+<rect x="512.5" y="30.5" width="189" height="95" rx="14" fill="#161B22" stroke="#30363D"/>
+<rect x="532" y="30" width="46" height="2.5" rx="1.25" fill="url(#g)"/>
+<text x="532" y="58" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="700" fill="#00D8A7" text-anchor="start" >03</text>
+<text x="532" y="88" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#E6EDF3" text-anchor="start" >Serve</text>
+<text x="532" y="110" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="400" fill="#8B949E" text-anchor="start" >FastAPI · Docker</text>
+<line x1="710" y1="78" x2="752" y2="78" stroke="#00D8A7" stroke-width="2" stroke-dasharray="4 5"><animate attributeName="stroke-dashoffset" values="0;-18" dur="1s" repeatCount="indefinite"/></line>
+<polygon points="750,71 760,78 750,85" fill="#00D8A7"/>
+<circle r="3.5" fill="#7CFFE0"><animateMotion path="M710,78 L752,78" dur="1.8s" begin="1.2s" repeatCount="indefinite"/></circle>
+<rect x="768.5" y="30.5" width="189" height="95" rx="14" fill="#161B22" stroke="#30363D"/>
+<rect x="788" y="30" width="46" height="2.5" rx="1.25" fill="url(#g)"/>
+<text x="788" y="58" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="700" fill="#00D8A7" text-anchor="start" >04</text>
+<text x="788" y="88" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#E6EDF3" text-anchor="start" >Product</text>
+<text x="788" y="110" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="400" fill="#8B949E" text-anchor="start" >React · TypeScript</text>
+<path d="M863,126 V170 H95 V132" stroke="#38BDF8" stroke-opacity=".7" stroke-width="2" stroke-dasharray="4 6"><animate attributeName="stroke-dashoffset" values="0;-20" dur="1.4s" repeatCount="indefinite"/></path>
+<polygon points="89,134 101,134 95,124" fill="#38BDF8"/>
+<circle r="3.5" fill="#BDE8FF"><animateMotion path="M863,126 V170 H95 V132" dur="5s" repeatCount="indefinite"/></circle>
+<text x="479" y="196" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="400" fill="#8B949E" text-anchor="middle" >feedback + new data</text>
+</svg>

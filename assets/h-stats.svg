@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="58" viewBox="0 0 960 58" fill="none" role="img">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00D8A7"/><stop offset="1" stop-color="#38BDF8"/></linearGradient>
+<linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00D8A7" stop-opacity="0"/><stop offset=".5" stop-color="#00D8A7"/><stop offset="1" stop-color="#00D8A7" stop-opacity="0"/></linearGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00D8A7" stop-opacity=".7"/><stop offset="1" stop-color="#30363D" stop-opacity="0"/></linearGradient>
+</defs>
+<rect x="0" y="6" width="44" height="44" rx="11" fill="url(#g)"/>
+<text x="22" y="34" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="16" font-weight="800" fill="#0D1117" text-anchor="middle" >06</text>
+<text x="64" y="36" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#E6EDF3" text-anchor="start" >GitHub Stats</text>
+<text x="960" y="34" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="400" fill="#8B949E" text-anchor="end" >// gh stats --me</text>
+<rect x="0" y="55" width="960" height="1.5" fill="url(#fade)"/>
+<rect x="-220" y="54" width="220" height="3" rx="1.5" fill="url(#sweep)"><animate attributeName="x" values="-220;960" dur="3.6s" repeatCount="indefinite"/></rect>
+</svg>
