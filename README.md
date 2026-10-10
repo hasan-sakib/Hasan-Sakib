@@ -122,9 +122,8 @@ class SakibHasan:
 
 <img src="https://streak-stats.demolab.com?user=hasan-sakib&hide_border=true&background=0D1117&stroke=0D1117&ring=00D8A7&fire=FF6B35&currStreakLabel=00D8A7&sideLabels=C9D1D9&dates=8B949E" height="165" alt="Contribution streak"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=hasan-sakib&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8" width="98%" alt="GitHub trophies"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hasan-sakib&bg_color=0D1117&color=C9D1D9&title_color=00D8A7&line=00D8A7&point=FFFFFF&area=true&area_color=0077B6&hide_border=true&custom_title=Contribution%20Activity" width="98%" alt="Contribution graph"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasan-sakib&theme=github_dark" height="150" alt="Profile details and contribution history"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hasan-sakib&theme=github_dark&utcOffset=6" height="150" alt="Commits by hour of day"/>
 
 </div>
 
